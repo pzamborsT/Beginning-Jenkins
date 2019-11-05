@@ -1,4 +1,4 @@
-gode {
+node {
     printMessage("Pipeline Start")
 
     stage("Fetch Source Code") {
